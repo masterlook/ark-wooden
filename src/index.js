@@ -1,8 +1,8 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
-        cssPath: 'styles/light.css',
+      'plugin-wooden': {
+        cssPath: 'styles/wooden.css',
         darkMode: false
       }
     }
