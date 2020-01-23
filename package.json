@@ -7,7 +7,7 @@
   "license": "MIT",
   "desktop-wallet": {
     "title": "Wooden Theme",
-    //"logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
     "categories": [
       "theme"
     ],
