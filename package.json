@@ -1,13 +1,13 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@masterlook/ark-wallet-theme-wooden",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Wooden Desktop Wallet Theme",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "Masterlook",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "Wooden Theme",
+    //"logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
     "categories": [
       "theme"
     ],
@@ -27,11 +27,11 @@
     "Author Name"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/masterlook/ark-wooden/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/masterlook/ark-wooden",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+ttps://github.com/masterlook/ark-wooden.git"
   }
 }
